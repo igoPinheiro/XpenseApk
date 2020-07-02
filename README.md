@@ -1,2 +1,1 @@
-# XpenseApk
- Apk of the Xpense application developed with flutter.
+Apk of the Xpense application developed with flutter.
