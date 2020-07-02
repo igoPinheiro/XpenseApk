@@ -1,4 +1,4 @@
-Apk of the Xpense application developed with flutter.
+Apk of the Expense application developed with flutter.
 
 <p align="center">
   <img src="sreens.jpg" title="hover text">
